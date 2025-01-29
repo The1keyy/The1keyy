@@ -5,10 +5,13 @@ Hey, welcome to my GitHub profile! I'm a Software Engineer with admiration for t
 ## 🚀 About Me
 
 🔭 I’m currently working on various projects involving web development and open-source contributions.
+
 🌱 I’m constantly learning and keeping up-to-date with the latest technologies and best practices in the industry, including data structures and algorithms.
+
 👯 I’m looking to collaborate on open-source projects and interesting development opportunities.
+
 📫 How to reach me: [Email](mailto:Keyshawnjeannot2@gmail.com) | [LinkedIn](https://www.linkedin.com/in/keyshawnjeannot)
-😄 Pronouns: He/him
+
 ⚡ Fun fact: I love history about my culture, exploring the world, and continuously improving.
 
 ## 🛠️ Technologies & Tools
