@@ -25,7 +25,7 @@ Hey, welcome to my GitHub profile! I'm a Software Engineer with admiration for t
 
 Here are a few of my top projects:
 
-- [Project Name 1](https://github.com/n8silveira/EventPlannerProgram): his project is an Event Planner Application developed as part of a collaboration with a group of students from my school. The goal of the app is to help users organize and manage events with ease. Features include event creation, task management, and scheduling.
+- [Event Planner](https://github.com/n8silveira/EventPlannerProgram): This project is an Event Planner Application developed as part of a collaboration with a group of students from my school. The goal of the app is to help users organize and manage events with ease. Features include event creation, task management, and scheduling.
 
 Feel free to check out my repositories and reach out if you have any questions or collaboration ideas!
 
