@@ -22,7 +22,8 @@ I’m a tech professional driven to use my skills to create positive change and 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=The1keyy&show_icons=true&theme=radical&cache_seconds=1800)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=The1keyy&theme=radical)
+
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=The1keyy&theme=radical)
 
