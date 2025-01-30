@@ -22,9 +22,6 @@ I’m a tech professional driven to use my skills to create positive change and 
 
 ## 📈 GitHub Stats
 
-![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=The1keyy&theme=radical)
-
-
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=The1keyy&theme=radical)
 
 ## 🏆 Top Projects
