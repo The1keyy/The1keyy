@@ -16,9 +16,9 @@ I’m a tech professional driven to use my skills to create positive change and 
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, JavaScript, TypeScript, Java, C, html, css, 
+- **Languages:** Python, JavaScript, TypeScript, Java, C, html, css, swift, swift ui
 - **Frameworks & Libraries:** React, Node.js, react, boostrap
-- **Tools & Platforms:** Git, Docker, Kubernetes, AWS, Azure, GCP, GitHub Actions
+- **Tools & Platforms:** Git, Docker, Kubernetes, AWS, Azure, GCP, GitHub Actions, VsCode, 
 
 ## 📈 GitHub Stats
 
