@@ -41,7 +41,7 @@ This project demonstrates my ability to build **user-centric applications** whil
 ---
 
 ### 🎉 **Happy Birthday Memory Grid**  
-**[Live Demo](https://meetitude.com/)** | **[GitHub Repository](https://github.com/The1keyy/sterlo-birthday-gift)** 
+**[Live Demo](https://the1keyy.github.io/sterlo-birthday-gift/)** | **[GitHub Repository](https://github.com/The1keyy/sterlo-birthday-gift)** 
 
 #### 🔹 Overview:  
 A **personalized, interactive birthday website** with animations, a **dynamic memory grid**, and multimedia elements.  
