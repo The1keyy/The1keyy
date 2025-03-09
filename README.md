@@ -61,7 +61,7 @@ A **personalized, interactive birthday website** with animations, a **dynamic me
 ---
 
 ### 🎉 **Interactive Birthday Website for Brenda**  
-**[Live Demo](the1keyy.github.io/brenda-birthday/)** | **[GitHub Repository](https://github.com/The1keyy/brenda-birthday)**  
+**[Live Demo]( https://the1keyy.github.io/brenda-birthday/ )** | **[GitHub Repository](https://github.com/The1keyy/brenda-birthday)**  
 
 #### 🔹 Overview:  
 A **custom-built, interactive web application** celebrating **Brenda’s 21st birthday**, featuring animations, music, and engaging UI elements.  
