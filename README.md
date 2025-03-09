@@ -28,9 +28,15 @@ I’m a tech professional driven to use my skills to create positive change and 
 
 Here are a few of my top projects:
 
-- [Event Planner](https://github.com/n8silveira/EventPlannerProgram): This project is an Event Planner Application developed as part of a collaboration with a group of students from my school. The goal of the app is to help users organize and manage events with ease. Features include event creation, task management, and scheduling.
+- [Event Planner](https://github.com/n8silveira/EventPlannerProgram):Developed an Event Planner Application in collaboration with a team of students to streamline event organization and task management. The app enables users to create events, assign tasks, and manage schedules efficiently.
 
-Feel free to check out my repositories and reach out if you have any questions or collaboration ideas!
+Key Contributions & Skills Gained:
+✔ Front-End Development – Designed and implemented interactive UI components, enhancing user experience and engagement.
+✔ User Interaction & Experience – Focused on intuitive navigation and usability, ensuring seamless event planning.
+✔ Team Collaboration – Worked within a team using GitHub (version control), task delegation, and code reviews to maintain an efficient development workflow.
+✔ Problem-Solving & Communication – Debugged issues, optimized features, and contributed to project discussions to align technical solutions with user needs.
+
+This project showcases my ability to develop user-centric applications, collaborate effectively, and apply software development best practices. The application is still in progress—check out the latest updates in the repository or here's the link: https://meetitude.com/
 
 ---
 
