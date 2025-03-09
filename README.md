@@ -24,7 +24,7 @@ I’m a **tech professional passionate about using technology to drive positive 
 
 ## 🏆 Projects & Highlights  
 
-### 📅 **Event Planner Application**  **Status:** *This project is still under development, but the front-end is fully implemented and functional.*
+### 📅 **Event Planner Application** |    **Status:** *This project is still under development, but the front-end is fully implemented and functional.*
 **[Live Demo](https://meetitude.com/)** | **[GitHub Repository](https://github.com/n8silveira/EventPlannerProgram)** 
 
 Developed a **collaborative event management platform** to simplify scheduling, task management, and event planning.  
