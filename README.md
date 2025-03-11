@@ -10,7 +10,7 @@ I’m a **tech professional passionate about using technology to drive positive 
 🌱 **Always learning:** Exploring **data structures, algorithms, cloud technologies, and best practices** to refine my skills.  
 👯 **Looking to collaborate on:** Open-source projects, innovative development opportunities, and impactful software solutions.  
 📫 **Reach me at:** [Email](mailto:Keyshawnjeannot2@gmail.com) | [LinkedIn](https://www.linkedin.com/in/keyshawnjeannot)  
-⚡ **Fun fact:** I love history, cultural exploration, and constantly improving my craft.  
+⚡ **Fun fact:** I love psychology, philosophy, cultural exploration, and constantly improving my craft.  
 
 ---
 
