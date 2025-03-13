@@ -6,7 +6,7 @@ I’m a **tech professional passionate about using technology to drive positive 
 
 ## 🚀 About Me  
 
-🔭 **Currently working on:** Web development projects, open-source contributions, and technical problem-solving.  
+🔭 **Currently working on:** Web development projects, cloud technologies, and technical problem-solving.  
 🌱 **Always learning:** Exploring **data structures, algorithms, cloud technologies, and best practices** to refine my skills.  
 👯 **Looking to collaborate on:** Open-source projects, innovative development opportunities, and impactful software solutions.  
 📫 **Reach me at:** [Email](mailto:Keyshawnjeannot2@gmail.com) | [LinkedIn](https://www.linkedin.com/in/keyshawnjeannot)  
