@@ -7,18 +7,17 @@ I’m a **tech professional passionate about using technology to drive positive 
 ## 🚀 About Me  
 
 🔭 **Currently working on:** Web development projects, cloud technologies, and technical problem-solving.  
-🌱 **Always learning:** Exploring **data structures, algorithms, cloud technologies, and best practices** to refine my skills.  
-👯 **Looking to collaborate on:** Open-source projects, innovative development opportunities, and impactful software solutions.  
+🌱 **Always learning:** Exploring **data structures, algorithms, cloud technologies, and best practices** to refine my skills.    
 📫 **Reach me at:** [Email](mailto:Keyshawnjeannot2@gmail.com) | [LinkedIn](https://www.linkedin.com/in/keyshawnjeannot)  
-⚡ **Fun fact:** I love psychology, philosophy, cultural exploration, and constantly improving my craft.  
+⚡ **Fun fact:** I love psychology, fashion , philosophy, cultural exploration, and constantly improving my craft.  
 
 ---
 
 ## 🛠️ Technologies & Tools  
 
 - **Languages:** Python, JavaScript, TypeScript, Java, C, HTML, CSS, Swift, Swift UI  
-- **Frameworks & Libraries:** React, Node.js, Bootstrap  
-- **Tools & Platforms:** Git, Docker, Kubernetes, AWS, Azure, GCP, GitHub Actions, VS Code  
+- **Frameworks & Libraries:** React, Node.js, Bootstrap, Framer Motion  
+- **Tools & Platforms:** Git, Docker, Kubernetes, AWS, Azure, GCP, GitHub Actions, VS Code, Vercel 
 
 ---
 
