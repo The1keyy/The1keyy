@@ -2,7 +2,7 @@
 ### `The1keyy`
 
 **AI Security Engineering · Computer Science @ UMass Boston**
-Information Security Analyst @ UMB · 1.5+ Years SOC Experience
+Information Security Analyst @ UMB 
 
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](.)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](.)
