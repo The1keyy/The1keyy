@@ -1,7 +1,7 @@
 # Hi, I'm Keyshawn Jeannot 👋
 ### `The1keyy`
 
-**AI Security Engineering · Computer Science @ UMass Boston**
+**Security Engineering · Computer Science @ UMass Boston**
 Information Security Analyst @ UMB 
 
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](.)
