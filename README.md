@@ -1,212 +1,86 @@
+<div align="center">
+
 # Keyshawn Jeannot
-### 🔐 Security Engineer & Backend Developer
 
-<div align="center">
+### Information Security Analyst | Backend Development & Cloud Security
 
-```
-█████████████████████████████████████
-  Building Secure Systems by Design
-█████████████████████████████████████
-```
+Computer Science student at the University of Massachusetts Boston
 
-**Information Security Analyst @ UMass Boston** | Security Engineering Track  
-📍 Boston, MA | ✉️ [Keyshawnjeannot2@gmail.com](mailto:Keyshawnjeannot2@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/keyshawnjeannot)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/keyshawnjeannot)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-1F2937?style=flat-square&logo=githubpages&logoColor=white)](https://the1keyy.github.io/keyshawn-jeannot-portfolio/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Keyshawnjeannot2@gmail.com)
+
+Boston, MA · CompTIA Security+ Certified
 
 </div>
 
 ---
 
-## 🎯 What I Do
+## About Me
 
-Backend security engineer building **scalable systems with security embedded at every layer**. From IAM policies and encryption strategies to API authentication and database hardening—I design infrastructure that's secure by default.
+I'm a Computer Science student at **UMass Boston** and a **Junior Information Security Analyst**, with hands-on experience in security monitoring, incident investigation, vulnerability management, and remediation.
 
-Currently: Information Security Analyst @ UMass Boston  
-Pursuing: Cloud security certifications & DevSecOps expertise
+My technical interests include **backend security, cloud infrastructure, and DevSecOps**. I build projects that bring together secure API development, authentication, database design, and cloud deployment. I enjoy translating what I learn in security operations into practical engineering work.
 
----
+## Technical Skills
 
-## 🛠️ Tech Arsenal
+| Area | Technologies & Skills |
+| --- | --- |
+| **Languages** | Python, SQL, Java, C, Bash, JavaScript |
+| **Backend & Data** | FastAPI, REST APIs, PostgreSQL, SQLAlchemy, JWT authentication |
+| **Cloud & DevOps** | AWS (EC2, IAM, VPC), Docker, Docker Compose, Git, Linux |
+| **Security** | Microsoft Defender, Microsoft Sentinel, Tenable, vulnerability management, incident response, SIEM, KQL |
+| **Currently Learning** | AWS architecture, Terraform, infrastructure automation, DevSecOps |
 
-<table>
-<tr>
-<td width="25%">
-  
-### 🐍 Languages
-- Python
-- SQL
-- Java
-- Node.js
-- C
-- Bash
+## Experience
 
-</td>
-<td width="25%">
+### Junior Information Security Analyst · University of Massachusetts Boston
 
-### ☁️ Cloud & DevOps
-- AWS EC2
-- AWS S3
-- AWS RDS
-- Lambda
-- Docker
-- CI/CD Pipelines
-- Git
+- Monitor and investigate security alerts and suspicious account activity.
+- Support incident response, including account containment, session revocation, and remediation.
+- Identify, assess, and track endpoint vulnerabilities.
+- Document security findings, investigations, and remediation activities.
 
-</td>
-<td width="25%">
+## Featured Projects
 
-### 🔒 Security
-- IAM Policies
-- VPC Security
-- Network Security
-- Linux Hardening
-- Threat Modeling
-- Vulnerability Scanning
-- SOC Operations
+### [QueryShield — SQL Injection Risk Analysis](https://github.com/The1keyy/queryshield)
 
-</td>
-<td width="25%">
+A security-focused application that analyzes SQL query strings for suspicious patterns and presents structured risk assessments through authenticated API endpoints and a web dashboard.
 
-### 💾 Data & APIs
-- PostgreSQL
-- Redis
-- REST APIs
-- Authentication
-- Authorization
-- Query Optimization
-- Access Control
+- Built a **Python and FastAPI** backend with **PostgreSQL** for query analysis and history.
+- Implemented **JWT-based authentication**, detection rules, risk scoring, and severity classification.
+- Developed a **React and TypeScript** dashboard for submitting queries and reviewing results.
+- Containerized the application with **Docker Compose** and documented deployment on **AWS EC2**.
 
-</td>
-</tr>
-</table>
+**Stack:** Python · FastAPI · PostgreSQL · React · TypeScript · Docker · AWS EC2
 
----
+### [Windows Vulnerability Assessment](https://github.com/The1keyy/tenable-windows-vulnerability-assessment)
 
-## 🚀 Featured Project
+A hands-on project focused on vulnerability assessment and remediation using Tenable in a Windows environment.
 
-### QueryShield — Real-time SQL Injection Detection
+### [Infoblox Enterprise DDI Lab](https://github.com/The1keyy/infoblox-nios-enterprise-ddi-lab)
 
-<div align="left">
+An infrastructure lab exploring enterprise **DNS, DHCP, and IP address management (DDI)** with Infoblox NIOS.
 
-```
-Input Query → Analysis Engine → Vulnerability Report
-     ↓
-  [High Risk Pattern Detected]
-```
+## Education & Certification
 
-</div>
+**University of Massachusetts Boston**  
+B.A. in Computer Science · Expected May 2027
 
-A production-grade backend system that analyzes SQL queries for injection vulnerabilities and security risks in real-time.
+**CompTIA Security+** · Certified
 
-**What it does:**
-- 🔍 Detects SQL injection patterns dynamically
-- ⚠️ Flags high-risk query structures  
-- 📋 Returns structured vulnerability reports via REST
-- 🛡️ Built with defense-in-depth architecture
+**Current areas of study:** AWS Solutions Architect – Associate, Terraform Associate, and cloud security.
 
-**Tech Stack:** Python · REST API · PostgreSQL · Security Analysis
+## Career Interests
 
-**Why it matters:** Demonstrates the intersection of offensive security awareness and secure backend engineering—exactly what cloud security teams need.
+I'm interested in opportunities that combine software development, infrastructure, and security, particularly **Cloud Security Engineering, Application Security, Backend Security, and DevSecOps**.
 
----
-
-## 📊 By The Numbers
-
-| Metric | Status |
-|--------|--------|
-| **🐱 GitHub Repos** | [Check GitHub](https://github.com/The1keyy) |
-| **🔐 Security Focus** | 100% |
-| **☁️ Cloud Platforms** | AWS · Docker |
-| **📚 Active Certifications** | 3 (1 Complete, 2 In Progress) |
-
----
-
-## 🎓 Credentials & Growth
-
-```
-CompTIA Security+           ✅ CERTIFIED
-        ↓
-AWS Solutions Architect     🔄 In Progress
-        ↓
-Terraform Associate         🔄 In Progress
-```
-
-**Learning Track:** Cloud-native DevSecOps, Infrastructure Automation, Security Automation
-
----
-
-## 💡 Core Competencies
-
-<details open>
-<summary><b>🔧 Backend Security</b></summary>
-
-- REST API design with robust authentication
-- Input validation & injection prevention
-- Zero Trust architecture principles
-- Secure coding practices
-- API rate limiting & DDoS protection
-
-</details>
-
-<details open>
-<summary><b>☁️ Cloud Infrastructure</b></summary>
-
-- AWS IAM policy design
-- VPC security group configuration
-- Encryption at rest & in transit (AES-256, TLS)
-- Container security & hardening
-- Infrastructure as Code
-
-</details>
-
-<details open>
-<summary><b>🗄️ Database Security</b></summary>
-
-- PostgreSQL hardening & access control
-- Query optimization for performance
-- Data integrity & compliance
-- Connection pooling with Redis
-- Backup & recovery strategies
-
-</details>
-
-<details open>
-<summary><b>🔍 Threat & Vulnerability</b></summary>
-
-- Threat modeling & risk assessment
-- SQL injection detection & prevention
-- Vulnerability scanning & analysis
-- Security log monitoring & SIEM
-- Incident response automation
-
-</details>
-
----
-
-## 🎯 Looking For
-
-🔹 Backend Security Engineering roles  
-🔹 Cloud Security & DevSecOps positions  
-🔹 Infrastructure Security Engineering  
-🔹 Security-focused startups & teams  
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/-Keyshawnjeannot2@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Keyshawnjeannot2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/keyshawnjeannot)
-[![GitHub](https://img.shields.io/badge/-GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/The1keyy)
-
-**→ Open to collaboration, mentorship, and security opportunities ←**
-
-</div>
+Open to connecting with engineers, security professionals, and teams working on secure, reliable systems.
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=The1keyy&color=blue&style=flat-square)
+[LinkedIn](https://linkedin.com/in/keyshawnjeannot) · [Portfolio](https://the1keyy.github.io/keyshawn-jeannot-portfolio/) · [Email](mailto:Keyshawnjeannot2@gmail.com)
 
 </div>
