@@ -10,7 +10,7 @@ Computer Science student at the University of Massachusetts Boston
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-1F2937?style=flat-square&logo=githubpages&logoColor=white)](https://the1keyy.github.io/keyshawn-jeannot-portfolio/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Keyshawnjeannot2@gmail.com)
 
-Boston, MA · CompTIA Security+ Certified
+CompTIA Security+ Certified
 
 </div>
 
@@ -65,7 +65,7 @@ An infrastructure lab exploring enterprise **DNS, DHCP, and IP address managemen
 ## Education & Certification
 
 **University of Massachusetts Boston**  
-B.A. in Computer Science · Expected May 2027
+Computer Science 
 
 **CompTIA Security+** · Certified
 
