@@ -1,0 +1,190 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1200 300"
+     width="1200"
+     height="300"
+     role="img"
+     aria-labelledby="title desc">
+
+  <title id="title">Keyshawn Jeannot</title>
+  <desc id="desc">
+    Security Engineering, Cloud Security, and Automation.
+    Computer Science student and Junior Information Security Analyst.
+  </desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#08111f"/>
+      <stop offset="58%" stop-color="#0b1c31"/>
+      <stop offset="100%" stop-color="#08243a"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="88%" cy="18%" r="62%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid"
+             width="42"
+             height="42"
+             patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42"
+            fill="none"
+            stroke="#7dd3fc"
+            stroke-opacity="0.055"
+            stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200"
+        height="300"
+        rx="18"
+        fill="url(#bg)"/>
+
+  <rect width="1200"
+        height="300"
+        rx="18"
+        fill="url(#grid)"/>
+
+  <rect width="1200"
+        height="300"
+        rx="18"
+        fill="url(#glow)"/>
+
+  <!-- Accent -->
+  <rect x="54"
+        y="76"
+        width="5"
+        height="126"
+        rx="2.5"
+        fill="url(#accent)"/>
+
+  <!-- Main text -->
+  <g font-family="Arial, Helvetica, sans-serif">
+
+    <text x="82"
+          y="124"
+          font-size="56"
+          font-weight="700"
+          fill="#f8fafc"
+          letter-spacing="-1.2">
+      Keyshawn Jeannot
+    </text>
+
+    <text x="84"
+          y="168"
+          font-size="23"
+          font-weight="600"
+          fill="#7dd3fc"
+          letter-spacing="0.25">
+      Security Engineering • Cloud Security • Automation
+    </text>
+
+    <text x="84"
+          y="202"
+          font-size="16"
+          fill="#94a3b8">
+      CS @ UMass Boston • Junior Information Security Analyst • Security+
+    </text>
+
+  </g>
+
+  <!-- Network / pipeline lines -->
+  <g fill="none"
+     stroke="#38bdf8"
+     stroke-width="1.6"
+     stroke-opacity="0.34">
+
+    <path d="M760 210H842V151H930V92H1017"/>
+    <path d="M842 210H923V236H1060"/>
+    <path d="M930 151H1020V181H1112"/>
+
+  </g>
+
+  <!-- Pipeline nodes -->
+  <g fill="#08111f"
+     stroke="#22d3ee"
+     stroke-width="1.6"
+     stroke-opacity="0.82">
+
+    <circle cx="760" cy="210" r="5"/>
+    <circle cx="842" cy="151" r="5"/>
+    <circle cx="930" cy="92" r="5"/>
+    <circle cx="1017" cy="92" r="5"/>
+    <circle cx="1060" cy="236" r="5"/>
+    <circle cx="1112" cy="181" r="5"/>
+
+  </g>
+
+  <!-- Cloud -->
+  <g transform="translate(920 43)"
+     fill="none"
+     stroke="#3b82f6"
+     stroke-opacity="0.48"
+     stroke-width="1.7">
+
+    <path d="
+      M82 28
+      c-17 0-31 12-33 28
+      -12 1-21 10-21 22
+      0 13 11 23 25 23
+      h84
+      c14 0 25-10 25-23
+      0-12-9-21-21-22
+      -2-16-16-28-33-28
+      -10 0-19 4-26 11
+      -7-7-16-11-26-11
+      z"/>
+  </g>
+
+  <!-- Build/test badge -->
+  <g transform="translate(730 72)">
+
+    <rect width="150"
+          height="38"
+          rx="19"
+          fill="#0b1c31"
+          stroke="#22d3ee"
+          stroke-opacity="0.35"/>
+
+    <circle cx="21"
+            cy="19"
+            r="5"
+            fill="#22d3ee"/>
+
+    <text x="36"
+          y="24"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="12"
+          font-weight="600"
+          fill="#cbd5e1">
+      BUILD • TEST • SECURE
+    </text>
+
+  </g>
+
+  <!-- Terminal -->
+  <g font-family="Consolas, Menlo, monospace"
+     font-size="13"
+     fill="#7aa2d6"
+     fill-opacity="0.62">
+
+    <text x="780" y="260">
+      $ kubectl auth can-i get secrets --as developer
+    </text>
+
+    <text x="780"
+          y="281"
+          fill="#22d3ee"
+          fill-opacity="0.9">
+      no
+    </text>
+
+  </g>
+
+</svg>
