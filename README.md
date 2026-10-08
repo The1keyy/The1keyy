@@ -1,86 +1,284 @@
 <div align="center">
 
-# Keyshawn Jeannot
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0f172a,100:0ea5e9&text=Keyshawn%20Jeannot&fontColor=ffffff&fontSize=45&fontAlignY=35&desc=Cloud%20Security%20%7C%20Security%20Engineering%20%7C%20Cybersecurity&descAlignY=55&descSize=17&animation=fadeIn"
+  width="100%"
+/>
 
-### Information Security Analyst | Backend Development & Cloud Security
+### 👋 Hey, I'm Keyshawn
 
-Computer Science student at the University of Massachusetts Boston
+**Computer Science Student • Information Security Analyst • Cybersecurity Builder**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/keyshawnjeannot)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-1F2937?style=flat-square&logo=githubpages&logoColor=white)](https://the1keyy.github.io/keyshawn-jeannot-portfolio/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Keyshawnjeannot2@gmail.com)
+Welcome to my technical journal.
 
-CompTIA Security+ Certified
+I’m a Computer Science student and Information Security Analyst building hands-on projects across **cloud security, detection engineering, security automation, and infrastructure security**.
+
+This GitHub is where I build, secure, test, break, automate, and document what I learn.
+
+**Hope you enjoy the journey 👋 — feel free to snoop around.**
+
+<br>
+
+<a href="https://linkedin.com/in/keyshawnjeannot">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://the1keyy.github.io/keyshawn-jeannot-portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=githubpages&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/The1keyy?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## About Me
+# 🚀 Featured Security Projects
 
-I'm a Computer Science student at **UMass Boston** and a **Junior Information Security Analyst**, with hands-on experience in security monitoring, incident investigation, vulnerability management, and remediation.
+> Hands-on projects focused on one principle:
+> **build the control, test the control, and prove that it works.**
 
-My technical interests include **backend security, cloud infrastructure, and DevSecOps**. I build projects that bring together secure API development, authentication, database design, and cloud deployment. I enjoy translating what I learn in security operations into practical engineering work.
+<table>
+<tr>
 
-## Technical Skills
+<td width="50%" valign="top">
 
-| Area | Technologies & Skills |
-| --- | --- |
-| **Languages** | Python, SQL, Java, C, Bash, JavaScript |
-| **Backend & Data** | FastAPI, REST APIs, PostgreSQL, SQLAlchemy, JWT authentication |
-| **Cloud & DevOps** | AWS (EC2, IAM, VPC), Docker, Docker Compose, Git, Linux |
-| **Security** | Microsoft Defender, Microsoft Sentinel, Tenable, vulnerability management, incident response, SIEM, KQL |
-| **Currently Learning** | AWS architecture, Terraform, infrastructure automation, DevSecOps |
+<h3>🔐 Kubernetes RBAC Security Lab</h3>
 
-## Experience
+A hands-on Kubernetes security lab focused on **identity, authorization, least privilege, workload security, network isolation, and auditability**.
 
-### Junior Information Security Analyst · University of Massachusetts Boston
+### What I Built
 
-- Monitor and investigate security alerts and suspicious account activity.
-- Support incident response, including account containment, session revocation, and remediation.
-- Identify, assess, and track endpoint vulnerabilities.
-- Document security findings, investigations, and remediation activities.
+- X.509 certificate authentication
+- Namespace-scoped RBAC
+- Least-privilege access controls
+- ServiceAccount workload identity
+- RBAC misconfiguration and remediation
+- Pod Security Admission
+- Calico NetworkPolicy
+- Kubernetes audit logging
+- Automated authorization testing
+- GitHub Actions security checks
 
-## Featured Projects
+### Demonstrates
 
-### [QueryShield — SQL Injection Risk Analysis](https://github.com/The1keyy/queryshield)
+`Kubernetes Security` `RBAC` `IAM`  
+`Network Security` `Cloud Security` `Security Testing`
 
-A security-focused application that analyzes SQL query strings for suspicious patterns and presents structured risk assessments through authenticated API endpoints and a web dashboard.
+<br>
 
-- Built a **Python and FastAPI** backend with **PostgreSQL** for query analysis and history.
-- Implemented **JWT-based authentication**, detection rules, risk scoring, and severity classification.
-- Developed a **React and TypeScript** dashboard for submitting queries and reviewing results.
-- Containerized the application with **Docker Compose** and documented deployment on **AWS EC2**.
+<a href="https://github.com/The1keyy/kubernetes-rbac-security-lab">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-**Stack:** Python · FastAPI · PostgreSQL · React · TypeScript · Docker · AWS EC2
+</td>
 
-### [Windows Vulnerability Assessment](https://github.com/The1keyy/tenable-windows-vulnerability-assessment)
+<td width="50%" valign="top">
 
-A hands-on project focused on vulnerability assessment and remediation using Tenable in a Windows environment.
+<h3>⚡ Security Automation Pipeline</h3>
 
-### [Infoblox Enterprise DDI Lab](https://github.com/The1keyy/infoblox-nios-enterprise-ddi-lab)
+A Python-based security pipeline that transforms authentication telemetry into **detections, enrichment, risk scoring, analyst decisions, and security reports**.
 
-An infrastructure lab exploring enterprise **DNS, DHCP, and IP address management (DDI)** with Infoblox NIOS.
+### What I Built
 
-## Education & Certification
+- 14 sign-in detection rules
+- Password spray detection
+- Brute-force detection
+- Impossible-travel analysis
+- MFA fatigue detection
+- Multi-source enrichment
+- Explainable risk scoring
+- Analyst approval before containment
+- MITRE ATT&CK mapping
+- Pytest security validation
 
-**University of Massachusetts Boston**  
-Computer Science 
+### Demonstrates
 
-**CompTIA Security+** · Certified
+`Python` `Detection Engineering` `SOC Automation`  
+`Threat Detection` `MITRE ATT&CK` `Security Engineering`
 
-**Current areas of study:** AWS Solutions Architect – Associate, Terraform Associate, and cloud security.
+<br>
 
-## Career Interests
+<a href="https://github.com/The1keyy/security-automation-pipeline">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-I'm interested in opportunities that combine software development, infrastructure, and security, particularly **Cloud Security Engineering, Application Security, Backend Security, and DevSecOps**.
+&nbsp;
 
-Open to connecting with engineers, security professionals, and teams working on secure, reliable systems.
+<a href="https://the1keyy.github.io/security-automation-pipeline/#overview">
+<img src="https://img.shields.io/badge/Project_Overview-0EA5E9?style=for-the-badge&logo=githubpages&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🛡️ Security Experience
+
+### Junior Information Security Analyst
+**University of Massachusetts Boston**
+
+My professional experience has given me hands-on exposure to security operations, incident investigation, and vulnerability management.
+
+- Monitor and triage **identity, email, and endpoint security alerts**
+- Investigate **impossible travel, leaked credentials, password sprays, and phishing**
+- Perform initial incident response including:
+  - Password resets
+  - Session revocation
+  - Account disabling
+  - Escalation
+- Investigate alerts using **EDR, SIEM, and identity-security tools**
+- Analyze and remediate suspicious emails and URLs
+- Support vulnerability management activities
+- Document investigations, actions, and outcomes
+
+### Security Tools
+
+![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Tenable](https://img.shields.io/badge/Tenable-00B388?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+# 🧰 Technical Toolkit
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,bash&theme=dark" />
+
+<br><br>
+
+### Cloud & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux&theme=dark" />
+
+<br><br>
+
+### DevOps & Development
+
+<img src="https://skillicons.dev/icons?i=githubactions,git,fastapi,postgres,vscode&theme=dark" />
+
+</div>
+
+<br>
+
+<table>
+
+<tr>
+<td width="28%"><b>Security Operations</b></td>
+<td>Microsoft Defender • Sentinel • Tenable • SIEM • EDR • Vulnerability Management</td>
+</tr>
+
+<tr>
+<td><b>Cloud Security</b></td>
+<td>AWS • Kubernetes • Docker • Terraform • IAM • RBAC • Linux</td>
+</tr>
+
+<tr>
+<td><b>Security Engineering</b></td>
+<td>Detection Engineering • Security Automation • Threat Analysis • CI/CD Security</td>
+</tr>
+
+<tr>
+<td><b>Programming</b></td>
+<td>Python • C++ • Java • JavaScript • Bash • SQL</td>
+</tr>
+
+<tr>
+<td><b>Security Concepts</b></td>
+<td>MITRE ATT&CK • Least Privilege • Defense in Depth • Incident Response</td>
+</tr>
+
+</table>
+
+---
+
+# 🎓 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CompTIA-Security%2B-EA1D2C?style=for-the-badge&logo=comptia&logoColor=white"/>
+
+<br><br>
+
+**CompTIA Security+**
+
+</div>
+
+---
+
+# 🎯 Career Focus
+
+<div align="center">
+
+### Cloud Security • Security Engineering • DevSecOps
+
+**Technical Interests**
+
+Detection Engineering • Security Automation • Kubernetes Security • Cloud Infrastructure
+
+</div>
+
+---
+
+# 📌 Explore My Work
+
+<div align="center">
+
+Want to see more?
+
+My portfolio includes additional projects, technical documentation, security labs, and a deeper look at my experience.
+
+<br><br>
+
+<a href="https://the1keyy.github.io/keyshawn-jeannot-portfolio/">
+<img src="https://img.shields.io/badge/Explore_My_Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://linkedin.com/in/keyshawnjeannot">
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=The1keyy&show_icons=true&hide_border=true&theme=transparent"
+/>
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=The1keyy&layout=compact&hide_border=true&theme=transparent"
+/>
+
+</div>
 
 ---
 
 <div align="center">
 
-[LinkedIn](https://linkedin.com/in/keyshawnjeannot) · [Portfolio](https://the1keyy.github.io/keyshawn-jeannot-portfolio/) · [Email](mailto:Keyshawnjeannot2@gmail.com)
+### Build it. Secure it. Test it. Prove it.
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:020617,50:0f172a,100:0ea5e9"
+  width="100%"
+/>
 
 </div>
