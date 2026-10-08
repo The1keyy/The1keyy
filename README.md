@@ -75,7 +75,7 @@ A hands-on Kubernetes security lab focused on **identity, authorization, least p
 
 &nbsp;
 
-<a href="the1keyy.github.io/kubernetes-rbac-security-lab/">
+<a href="https://the1keyy.github.io/kubernetes-rbac-security-lab/">
 <img src="https://img.shields.io/badge/Project_Overview-0EA5E9?style=for-the-badge&logo=githubpages&logoColor=white"/>
 </a>
 
