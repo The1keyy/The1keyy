@@ -259,27 +259,6 @@ My portfolio includes additional projects, technical documentation, security lab
 </div>
 
 ---
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=The1keyy&show_icons=true&hide_border=true&theme=transparent"
-/>
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=The1keyy&layout=compact&hide_border=true&theme=transparent"
-/>
-
-</div>
-
----
-
-<div align="center">
-
 ### Build it. Secure it. Test it. Prove it.
 
 <img
