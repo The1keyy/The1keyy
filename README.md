@@ -23,7 +23,7 @@ This GitHub is where I build, secure, test, break, automate, and document what I
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://the1keyy.github.io/keyshawn-jeannot-portfolio/">
+<a href="https://keyshawn-web.vercel.app/"> 
   <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=githubpages&logoColor=white"/>
 </a>
 &nbsp;
