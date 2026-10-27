@@ -1,3 +1,5 @@
+
+Readme · MD
 <div align="center">
 <img
   src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0f172a,100:0ea5e9&text=Keyshawn%20Jeannot&fontColor=ffffff&fontSize=45&fontAlignY=35&desc=Cloud%20Security%20%7C%20Security%20Engineering%20%7C%20Cybersecurity&descAlignY=55&descSize=17&animation=fadeIn"
@@ -10,24 +12,19 @@
  
 Welcome to my technical journal.
  
-I’m a Computer Science student and Information Security Analyst building hands-on projects across **cloud security, detection engineering, security automation, and infrastructure security**.
+I'm a Computer Science student and Information Security Analyst building hands-on projects across **cloud security, detection engineering, security automation, and infrastructure security**.
  
 This GitHub is where I build, secure, test, break, automate, and document what I learn.
  
 **Hope you enjoy the journey 👋 — feel free to snoop around.**
  
 <br>
-<a href="https://linkedin.com/in/keyshawnjeannot">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://linkedin.com/in/keyshawnjeannot"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-<a href="https://keyshawn-web.vercel.app/"> 
-  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=githubpages&logoColor=white"/>
-</a>
+<a href="https://keyshawn-web.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 &nbsp;
-<a href="https://github.com/The1keyy?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/The1keyy?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+ 
 </div>
 ---
  
@@ -56,18 +53,14 @@ A SOC analyst console and detection-as-code pipeline built on **Wazuh**, featuri
 - Secret scanning, Dependabot, and architecture decision records
 ### Demonstrates
  
-`SIEM` `Wazuh` `Detection Engineering` `Sigma`  
+`SIEM` `Wazuh` `Detection Engineering` `Sigma`<br>
 `Threat Hunting` `MITRE ATT&CK` `FastAPI` `React` `CI/CD Security`
  
 <br>
-<a href="https://github.com/The1keyy/enterprise-siem-threat-hunting-lab">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/The1keyy/enterprise-siem-threat-hunting-lab"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 &nbsp;
+<img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-6B7280?style=for-the-badge&logo=vercel&logoColor=white"/>
  
-<a href="LIVE_DEMO_URL_HERE">
-<img src="https://img.shields.io/badge/Live_Demo-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 </td>
 </tr>
 <tr>
@@ -90,18 +83,14 @@ A hands-on Kubernetes security lab focused on **identity, authorization, least p
 - GitHub Actions security checks
 ### Demonstrates
  
-`Kubernetes Security` `RBAC` `IAM`  
+`Kubernetes Security` `RBAC` `IAM`<br>
 `Network Security` `Cloud Security` `Security Testing`
  
 <br>
-<a href="https://github.com/The1keyy/kubernetes-rbac-security-lab">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/The1keyy/kubernetes-rbac-security-lab"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 &nbsp;
+<a href="https://the1keyy.github.io/kubernetes-rbac-security-lab/"><img src="https://img.shields.io/badge/Project_Overview-0EA5E9?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
  
-<a href="https://the1keyy.github.io/kubernetes-rbac-security-lab/">
-<img src="https://img.shields.io/badge/Project_Overview-0EA5E9?style=for-the-badge&logo=githubpages&logoColor=white"/>
-</a>
 </td>
 <td width="50%" valign="top">
 <h3>⚡ Security Automation Pipeline</h3>
@@ -122,18 +111,14 @@ A Python-based security pipeline that transforms authentication telemetry into *
 - Pytest security validation
 ### Demonstrates
  
-`Python` `Detection Engineering` `SOC Automation`  
+`Python` `Detection Engineering` `SOC Automation`<br>
 `Threat Detection` `MITRE ATT&CK` `Security Engineering`
  
 <br>
-<a href="https://github.com/The1keyy/security-automation-pipeline">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/The1keyy/security-automation-pipeline"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 &nbsp;
+<a href="https://the1keyy.github.io/security-automation-pipeline/#overview"><img src="https://img.shields.io/badge/Project_Overview-0EA5E9?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
  
-<a href="https://the1keyy.github.io/security-automation-pipeline/#overview">
-<img src="https://img.shields.io/badge/Project_Overview-0EA5E9?style=for-the-badge&logo=githubpages&logoColor=white"/>
-</a>
 </td>
 </tr>
 </table>
@@ -142,6 +127,7 @@ A Python-based security pipeline that transforms authentication telemetry into *
 # 🛡️ Security Experience
  
 ### Junior Information Security Analyst
+ 
 **University of Massachusetts Boston**
  
 My professional experience has given me hands-on exposure to security operations, incident investigation, and vulnerability management.
@@ -173,13 +159,9 @@ My professional experience has given me hands-on exposure to security operations
 ### Languages
  
 <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,bash&theme=dark" />
-<br><br>
- 
 ### Cloud & Infrastructure
  
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux&theme=dark" />
-<br><br>
- 
 ### DevOps & Development
  
 <img src="https://skillicons.dev/icons?i=githubactions,git,fastapi,postgres,vscode&theme=dark" />
@@ -213,8 +195,6 @@ My professional experience has given me hands-on exposure to security operations
  
 <div align="center">
 <img src="https://img.shields.io/badge/CompTIA-Security%2B-EA1D2C?style=for-the-badge&logo=comptia&logoColor=white"/>
-<br><br>
- 
 **CompTIA Security+**
  
 </div>
@@ -239,18 +219,15 @@ Want to see more?
  
 My portfolio includes additional projects, technical documentation, security labs, and a deeper look at my experience.
  
-<br><br>
- 
-<a href="https://the1keyy.github.io/keyshawn-jeannot-portfolio/">
-<img src="https://img.shields.io/badge/Explore_My_Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+<br>
+<a href="https://the1keyy.github.io/keyshawn-jeannot-portfolio/"><img src="https://img.shields.io/badge/Explore_My_Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 &nbsp;
+<a href="https://linkedin.com/in/keyshawnjeannot"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  
-<a href="https://linkedin.com/in/keyshawnjeannot">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 </div>
 ---
+ 
+<div align="center">
 ### Build it. Secure it. Test it. Prove it.
  
 <img
