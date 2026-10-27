@@ -1,5 +1,3 @@
-
-Readme · MD
 <div align="center">
 <img
   src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0f172a,100:0ea5e9&text=Keyshawn%20Jeannot&fontColor=ffffff&fontSize=45&fontAlignY=35&desc=Cloud%20Security%20%7C%20Security%20Engineering%20%7C%20Cybersecurity&descAlignY=55&descSize=17&animation=fadeIn"
