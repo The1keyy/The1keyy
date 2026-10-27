@@ -57,7 +57,6 @@ A SOC analyst console and detection-as-code pipeline built on **Wazuh**, featuri
 <br>
 <a href="https://github.com/The1keyy/enterprise-siem-threat-hunting-lab"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 &nbsp;
-<img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-6B7280?style=for-the-badge&logo=vercel&logoColor=white"/>
  
 </td>
 </tr>
